@@ -1,0 +1,3 @@
+This is my individual Domain Analysis prompt.
+
+Rochester based non-profit homeless shelter that collects donations (money, clothes, food, blankets, bedding, soap etc.) and manages voulunteer shifts. 
