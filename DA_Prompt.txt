@@ -1,4 +1,6 @@
 This is my individual Domain Analysis prompt.
 
 Rochester based non-profit homeless shelter that collects donations (money, clothes, food, blankets, bedding, soap etc.) and manages voulunteer shifts. 
-The shelter accomplishes this with their website, in which helpers can login and donate money through the website or schedule a dropoff to donate items the admin puts up as needed. If the helper wishes to donate items, they can place them in a cart that persists through logging off or website shutdown. The helper can remove certain items from the cart or proceed to checkout. Helpers can also sign up to volunteer through the website, with specific days and times.
+The shelter accomplishes this with their website, in which helpers can login and donate money through the website or schedule a dropoff to donate items the admin puts up as needed. If the helper wishes to donate items, they can place them in a cart that persists through logging off or website shutdown. The helper can remove certain items from the cart or proceed to checkout. 
+
+Helpers can also sign up to volunteer through the website, with specific days and times. As well as sign up for specific jobs the shelter needs to be filled.
