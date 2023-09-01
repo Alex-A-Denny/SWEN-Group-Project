@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T19:58:30.319Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="kwhfdTWgAT0d8LlmIhzg" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-01T20:01:20.691Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="u8r5C2O3j_UxD3G9X0Ql" version="21.7.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1050" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="m17-Y4bESD3xmkA4W81M-4" value="Can login&amp;nbsp;&lt;br&gt;to" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="250" y="553" width="80" height="40" as="geometry" />
+          <mxGeometry x="240" y="565" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m17-Y4bESD3xmkA4W81M-5" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="490" y="630" width="210" height="90" as="geometry" />
@@ -150,6 +150,15 @@
         </mxCell>
         <mxCell id="m17-Y4bESD3xmkA4W81M-17" value="Donate Items&lt;br&gt;to" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="555" y="433" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m17-Y4bESD3xmkA4W81M-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.893;exitY=0.021;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="m17-Y4bESD3xmkA4W81M-1" target="St44Bd5XHEi7_r3chmtu-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="580" as="sourcePoint" />
+            <mxPoint x="390" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m17-Y4bESD3xmkA4W81M-19" value="Sign up" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="548" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
